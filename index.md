@@ -31,3 +31,4 @@ layout: default
 [The Link to my tableau public about this graph](https://public.tableau.com/views/Visualizationofcovid-19/COVID19OutbreakOverview?:language=zh-TW&:sid=&:display_count=n&:origin=viz_share_link).
 # Abstruct
 The COVID-19 pandemic has had a significant global impact, affecting millions of people worldwide. This data visualization aims to provide an overview of the COVID-19 outbreak, highlighting key trends and insights. The visualization presents data on the total number of confirmed cases, recoveries, and deaths over time, allowing for a comprehensive understanding of the pandemic's progression. It also includes a breakdown of cases by country, enabling comparisons and identifying regions that have been most heavily impacted.
+
